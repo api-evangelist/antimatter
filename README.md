@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Antimatter is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.antimatter.io/
+Antimatter is a data platform product offering integrated analytics, AI, and machine learning capabilities, positioned within the Databricks ecosystem. It provides developers with APIs for data ingestion, processing, and model deployment, targeting enterprise workloads. The company is backed by NEA and appears as a subsidiary or product line of Databricks, with documentation hosted on docs.antimatter.io and related resources on Databricks sites.
+
+**Areas:** Company · Data Platform · Analytics · AI · Machine Learning
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.antimatter.io/)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/antimatter/](https://apis.io/providers/antimatter/).
